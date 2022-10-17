@@ -35,7 +35,8 @@ Rules from [Sudoku.com](https://sudoku.com/sudoku-rules/)
 3. Defining some functions to use along with OpenCV to do some image preprocessing like contouring and finding the board in an image and splitting the image up into 81 smaller boxes to run the model on.
 4. Lastly, using OpenCV to read, process, and then display the solution back to the original image filling in the missing boxes.
 
-![image](image_ans.png)
+<img width="350" alt="board" src="https://user-images.githubusercontent.com/113383835/196288821-424e4b6d-049e-4880-99cf-1d0614c95798.png">
+<img width="344" alt="image_ans" src="https://user-images.githubusercontent.com/113383835/196287930-4d8ae0ed-9a0e-4f63-ab61-f0fa7473e093.png">
 
 ---
 
