@@ -44,3 +44,11 @@ Rules from [Sudoku.com](https://sudoku.com/sudoku-rules/)
 - Some of the images used weren't as easy to detect the digits as others for some reason. Actual pictures taken rather than images for the internet worked a little better as long as the sudoku board was the majority of the image.
 - Had some trouble with certain fonts used on the web images with 5's looking like 6 and things of that nature. Try to refine model a little more and maybe train on web text rather than written text.
 - Main next step that I wasn't able to complete would be the app. I had to use colab for this project, as a temporary solution, and running streamlit from Colab had a few dependencies and nuances that I couldn't get working from Colab reliably. 
+
+---
+
+## Technologies
+- OpenCV
+- Keras/Tensorflow
+- Python
+- Numpy
